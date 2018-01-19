@@ -4,3 +4,8 @@ local?
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 -> Suppose I'm working on a team project and one of my team-mates commit some changes in remote repository. So, now it's upto me whether I want to pull that change into my local repository or not. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+-> Clones are used to create a copy of repository, it can be done from GitHub to Local Repository and also from Local to Local Repository. On the other hand, Forks are used to create a copy of someone's repository into our repository on GitHub so that we can make any change(s) we want in that repository without affecting the original (or owner's) repository. 
+
+-> Branches are used for experimental purposes, it makes easier to backup to bug-free version in case something unexpected happens.
